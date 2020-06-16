@@ -7,7 +7,7 @@ How to convert images to byte vector
 This repository contains an application used for evaluation while studying Computer Science, in the fifth semester, for the subject 'APS' - Supervised Practical Activities.
 
 # Get Started: 
-To run this application, you need to have a JAVA development environment set up on your computer. 
+To run this application, you need to have a JAVA SE development environment set up on your computer. 
 
 As an IDE, I recommend using NetBeans IDE 8.0.2.
 
